@@ -8,6 +8,7 @@ It was in the in the case of digit recognition
 To use it:
 
 1) import you data and process it thanks to dataProcessing.py
+
 2) run scriptNN.py
 
 It's easily modifiable.
