@@ -16,4 +16,5 @@ It's easily modifiable.
 Biblio:
 
 http://neuralnetworksanddeeplearning.com
+
 https://www.kaggle.com/c/digit-recognizer
